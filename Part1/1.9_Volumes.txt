@@ -1,0 +1,4 @@
+The command is sudo docker run -v "$(pwd)/text.log:/usr/src/app/text.log" devopsdockeruh/simple-web-service
+
+but the file text.log must be created previously,
+ or docker -v creates a repository with the same name.

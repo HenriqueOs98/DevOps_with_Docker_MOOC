@@ -1,6 +1,0 @@
-root@hickOS:/home/hickos# docker ps -a
-CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS                     PORTS      NAMES
-1a7f38be501b   mysql     "docker-entrypoint.s…"   About a minute ago   Exited (0) 4 seconds ago              mysql-instance
-d8e036ecc99e   tomcat    "catalina.sh run"        10 minutes ago       Up 10 minutes              8080/tcp   confident_gould
-c2e00d74fe91   nginx     "/docker-entrypoint.…"   11 minutes ago       Up 11 minutes              80/tcp     nervous_goldberg
-root@hickOS:/home/hickos# 

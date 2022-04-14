@@ -1,0 +1,2 @@
+sudo docker build . -t hello_frontend
+sudo docker run -p 5000:5000 -it hello_frontend
