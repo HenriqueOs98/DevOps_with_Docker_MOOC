@@ -3,3 +3,4 @@ docker-compose.override.yml
 .secrets
 nginx.conf
 example-*
+material-applications-main
